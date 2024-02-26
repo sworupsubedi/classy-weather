@@ -17,16 +17,15 @@ Classy Weather empowers users to effortlessly retrieve weather information for t
 
 ## Technologies Used
 
-- **React:** Utilized the React library for building the user interface and managing state.
-- **JavaScript:** Implemented application logic using JavaScript, enhancing interactivity and functionality.
-- **HTML & CSS:** Employed HTML for structuring the app's content and CSS for styling, ensuring an aesthetically pleasing user interface.
-- **Fetch API:** Leveraged the Fetch API to asynchronously retrieve data from external APIs.
-- **Geocoding API:** Integrated a geocoding API to translate location search queries into geographical coordinates.
-- **Weather API:** Utilized a weather API to obtain accurate and detailed weather forecasts based on geographical coordinates.
+- **React:** 
+- **JavaScript:** 
+- **HTML & CSS:** 
+- **Geocoding and Weather API:** 
+
 
 ## Demo
 
-Check out the [Classy Weather Web Application](#) to explore its features!
+Check out the [Classy Weather Web Application](https://sworupsubedi.github.io/classy-weather) to explore its features!
 
 ## Contributor
 
