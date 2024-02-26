@@ -17,10 +17,10 @@ Classy Weather empowers users to effortlessly retrieve weather information for t
 
 ## Technologies Used
 
-- **React:** 
-- **JavaScript:** 
-- **HTML & CSS:** 
-- **Geocoding and Weather API:** 
+- **React** 
+- **JavaScript** 
+- **HTML & CSS** 
+- **Geocoding and Weather API** 
 
 
 ## Demo
